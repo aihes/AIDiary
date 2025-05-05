@@ -1,0 +1,25 @@
+# 声音贝壳(Shell Voice)应用证书信息
+
+## 应用信息
+应用名称: 声音贝壳 (Shell Voice)
+Bundle ID: tech.chatoffer.shellvoice
+开发者账户: [您的Apple Developer账户邮箱]
+
+## 证书信息
+证书类型: Apple Distribution
+证书持有者: [您的姓名或公司名称]
+证书到期日期: [证书到期日期]
+
+## 证书SHA-1指纹
+SHA-1: AA:BB:CC:DD:EE:FF:00:11:22:33:44:55:66:77:88:99:AA:BB:CC:DD
+
+注意: 上面的SHA-1指纹是示例值。请替换为您实际证书的SHA-1指纹。
+您可以在Mac的"钥匙串访问"应用中查看证书详情获取此信息。
+
+## 公钥文件位置
+公钥文件已保存在: certificates/shellvoice_public_key.pem
+
+## 重要提示
+- 请妥善保管这些信息，不要分享给未授权人员
+- 证书通常有效期为一年，请注意及时更新
+- 上传应用时需要使用与此证书关联的Provisioning Profile

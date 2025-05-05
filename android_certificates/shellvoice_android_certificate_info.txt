@@ -1,0 +1,27 @@
+# 声音贝壳(Shell Voice)应用Android证书信息
+
+## 应用信息
+应用名称: 声音贝壳 (Shell Voice)
+软件包名称(Package Name): tech.chatoffer.shellvoice
+开发者账户: [您的Google Play开发者账户邮箱]
+
+## Keystore信息
+Keystore文件名: shellvoice.keystore
+Keystore密码: [您的Keystore密码]
+Key别名: shellvoice
+Key密码: [您的Key密码]
+证书有效期: 10000天 (从创建日期开始)
+
+## 证书MD5指纹
+MD5: AA:BB:CC:DD:EE:FF:00:11:22:33:44:55:66:77:88:99
+
+注意: 上面的MD5指纹是示例值。请替换为您实际证书的MD5指纹。
+您可以使用keytool命令获取此信息。
+
+## 公钥信息
+公钥已保存在: android_certificates/shellvoice_android_public_key.txt
+
+## 重要提示
+- 请妥善保管这些信息，特别是Keystore文件和密码
+- 如果丢失Keystore或忘记密码，您将无法更新应用
+- 建议将Keystore文件和此信息文档备份到安全的位置
